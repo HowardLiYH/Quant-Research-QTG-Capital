@@ -1,4 +1,5 @@
-# A Deep Learning Forcasting project done during Quantitative Research Internship at QTG Capital in Spring 2023 instructed by mentor Jackson Xing
+# A Deep Learning Forcasting project done during Quantitative Research Internship at QTG Capital in Spring 2023
+Mentor: Jackson Xing
 
 Attempted ConvLSTM2D + Conv2D Deep Learning structure to forecast At-The-Money implied volatility return on Chinese 50ETF option market.
 
