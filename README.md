@@ -13,6 +13,9 @@ Status: Onging
 2. Attempted on GARCH model as benchmark to compare with RF and LGBM.
 
 
+![WechatIMG491](https://github.com/HowardLiYH/Option-Price-Forcasting-QTG-Capital/assets/60827239/d30794db-45e6-4976-8af1-3db3c5adc512)
+
+
 
 #### 2) Attempted ConvLSTM2D + Conv2D Deep Learning structure to forecast At-The-Money implied volatility return on Chinese 50ETF option market.
 
@@ -22,6 +25,8 @@ The Implied Volatility Surface is constructed by
 3. Kurtosis calculated by 25 Delta
 4. Kurtosis calculated by 10 Delta
 5. At-The-Money Volatility
+
+![WechatIMG492](https://github.com/HowardLiYH/Option-Price-Forcasting-QTG-Capital/assets/60827239/481843ed-ddc0-43bc-8c84-43e39aee6227)
 
 The input data includes all the trading days' Call, Put, Strike price in between Jan 2015 and Mar 2023 with respect to three due days (This month, Next Month, Next Quarter)
 
