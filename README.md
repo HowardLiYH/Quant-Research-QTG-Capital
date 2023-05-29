@@ -1,8 +1,12 @@
-
 A Forcasting project on China's 50 ETF option market done during Quantitative Research Internship at QTG Capital in Spring 2023
 
 
 Status: Onging
+
+
+![1626688751440](https://github.com/HowardLiYH/Option-Price-Forcasting-QTG-Capital/assets/60827239/635aa133-34a3-4844-bf8b-bbaa0fca9cf2)
+
+
 
 #### 1) Full cycle modeling operation on forecasting future option price movements on China’s options market inferred through at-the-money volatility win ratio.
 1. Constructed over 80 features such as Skew, Kurtosis, at-the-money volatility (based on 25 Delta, 10 Delta, and 50 Delta), Open Interest PCR, Volatility PCR, underlying asset MA, turnovers, and more as model inputs.
